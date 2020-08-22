@@ -7,4 +7,7 @@ twitter:
 facebook:
   publisher: https://www.facebook.com/saddadamart/
 logo: mylogo.png
-image: mypreview.png
+image:
+  path: mypreview.png
+  height: 100
+  width: 100 
