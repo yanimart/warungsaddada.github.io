@@ -11,4 +11,6 @@ logo: mylogo.png
 image:
   path: mypreview.png
   height: 100
-  width: 100 
+  width: 100
+plugins:
+  - jekyll-sitemap
