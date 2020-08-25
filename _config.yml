@@ -2,12 +2,15 @@ theme: jekyll-theme-cayman
 url: https://saddada.com
 canonical_url: 'https://saddada.com'
 title: SADDADA MART
+lang: id_ID
+type: website
 description: Halaman resmi aplikasi saddada mart
 google_analytics: [UA-176054459-1]
 twitter:
   username: MartSaddada
   card: summary
 facebook:
+  app_id: [104764688017542]
   publisher: https://www.facebook.com/saddadamart/
 logo: mylogo.png
 image:
